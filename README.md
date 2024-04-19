@@ -1,11 +1,13 @@
-# Resolvendo Códigos em Python com o Github Copilot
+# Resolvendo Códigos em Python com o chatGPT
 
-Olá!! Aqui veremos algumas resoluções de códigos em python utilizando o Github Copilot.
+### Olá!
+
+Este Fork foi criado com o objetivo de acelerar o processo de aprendizado e conclusão do desafio:
+>Utilizando as Ferramentas do GitHub para Resolver Algoritmos em Python.
 
 ### Atenção ⚠️ 
 
-Não tem acesso ao Github Copilot?! Não tem problema!! 
-Que tal utilizar o [ChatGPT](https://chat.openai.com/) como seu copiloto de estudos ??
+Embora a premissa original do desafio seja usar o Github Copilot, como alternativa dada — utilizarei o [ChatGPT](https://chat.openai.com/) como meu copiloto de estudos.
 
 ## 1 - Concatenando Dados 🐾
 
