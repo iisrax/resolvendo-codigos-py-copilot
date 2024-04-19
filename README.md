@@ -7,7 +7,7 @@ Este Fork foi criado com o objetivo de acelerar o processo de aprendizado e conc
 
 ### Atenção ⚠️ 
 
-Embora a premissa original do desafio seja usar o Github Copilot, como alternativa dada — utilizarei o [ChatGPT](https://chat.openai.com/) como meu copiloto de estudos.
+Embora a premissa original do desafio seja usar o GitHub Copilot, como alternativa dada — utilizarei o [ChatGPT](https://chat.openai.com/) como meu copiloto de estudos.
 
 ## 1 - Concatenando Dados 🐾
 
